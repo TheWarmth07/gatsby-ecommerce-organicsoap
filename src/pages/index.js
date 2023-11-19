@@ -29,9 +29,9 @@ const IndexPage = () => {
       {/* Hero Container */}
       <Hero
         maxWidth={'500px'}
-        image={'/banner1.png'}
-        title={'Essentials for a cold winter'}
-        subtitle={'Discover Autumn Winter 2021'}
+        image={'/kera1.png'}
+        title={'Organic Skin Care'}
+        subtitle={'Homamade Organic Soap'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
@@ -39,7 +39,7 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demonstration of the Sydney theme for verse by{' '}
+          This is a demonstration of the Kera theme for verse by{' '}
           <span className={styles.gold}>matter design.</span>
         </p>
         <p>
