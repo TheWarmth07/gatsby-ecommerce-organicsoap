@@ -29,7 +29,7 @@ const IndexPage = () => {
       {/* Hero Container */}
       <Hero
         maxWidth={'500px'}
-        image={'/kera1.png'}
+        image={'/banner1.png'}
         title={'Organic Skin Care'}
         subtitle={'Homamade Organic Soap'}
         ctaText={'shop now'}
